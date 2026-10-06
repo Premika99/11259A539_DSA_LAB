@@ -68,4 +68,4 @@ case 2:
  scanf("%d %d", &pos, &value);
  n = insert(arr, n, pos, value);
  traverse(arr, n);
- break;
+ break
